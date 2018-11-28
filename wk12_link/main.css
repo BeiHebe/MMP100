@@ -6,11 +6,19 @@ body{
 	/*change the font for the whole page*/
 	font-family: "Lucida Console", Monaco, monospace; 
 
+	/*center the text and image in the center of the page*/
+	text-align: center;
+
 }
 
 h1{
 	font-family: 'Cinzel Decorative', cursive;
 }
+
+img{
+	
+}
+
 
 
 /*
