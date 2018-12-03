@@ -1,0 +1,70 @@
+/* 
+This program demonstrates navigation styles
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif; 
+	background-color: #fefbd8;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	/* change the default link color blue to pink*/
+	color: pink;
+}
+
+a:hover{
+
+	/* color of the link will change when move the 
+	cursor on the navigation elements*/
+	color: black;
+
+	/* underline will go away when you hover*/
+	text-decoration: none;
+}
+
+/*Navigation Styles*/
+
+nav{
+	/* change the background color (highlight) of the pane*/
+	background-color: grey;
+}
+
+nav ul{
+	// remove bullet points and 
+	list-style: none;
+	padding: 0;
+}
+
+nav li{
+	/* border: 1px solid red;*/
+	/* change layout of the elements*/
+	display: inline;
+}
+
+nav a{
+	display: inline-block;
+	/* add some space between the elements*/
+	padding: 20px;
+}
+
+nav a:hover{
+	background-color: white;
+}
+
+/*
+1.	https://www.w3schools.com/cssref/css_colors.asp
+2.	display - block
+			  inline. the <a> anchor tag is inline 
+			  inline - block
+*/
+
+
+
+
