@@ -29,6 +29,11 @@ a:hover{
 	text-decoration: none;
 }
 
+nav a:hover{
+	
+	background-color: white;
+}
+
 /*Navigation Styles*/
 
 nav{
@@ -54,9 +59,7 @@ nav a{
 	padding: 20px;
 }
 
-nav a:hover{
-	background-color: white;
-}
+
 
 /*
 1.	https://www.w3schools.com/cssref/css_colors.asp
