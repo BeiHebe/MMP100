@@ -5,20 +5,20 @@
 
 body{
 	font-family: Arial, Helvetica, sans-serif; 
-	/*background-color: #fefbd8;*/
+	background-color: mistyrose;
 	padding: 0;
 	margin: 0;
 }
 
 a{
 	/* change the default link color blue to pink*/
-	color: pink;
+	color: black;
 }
 
 a:hover{
 	/* color of the link will change when move the 
 	cursor on the navigation elements*/
-	color: black;
+	color: pink;
 
 	/* underline will go away when you hover*/
 	text-decoration: none;
@@ -26,7 +26,7 @@ a:hover{
 
 nav a:hover{
 	
-	background-color: white;
+	background-color: lavenderblush;
 }
 
 /*Navigation Styles*/
