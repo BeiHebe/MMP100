@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MMP 100 - Introduction to Multimedia</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="intro.html">Introduction</a></li>
+			<li><a href="projects.html">Example Projects</a></li>
+		</ul>
+	</nav>
+	<h1>Home</h1>
+
+	<img src="BeiHe_PS_Project02.jpg">
+	
+
+	<video width="400" controls>
+  		<source src="BeiHe_Movie_Project2.mov" type="video/mov">
+    </video>
+
+
+</html>
