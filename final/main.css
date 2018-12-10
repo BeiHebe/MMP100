@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Marmelad');
 *{
 	margin: 0;
 	padding: 0;
 }
 
 body{
-	font-family: 'Tangerine', cursive; 
+	font-family: 'Marmelad', sans-serif;
 	background-color: mistyrose;
 	padding: 0;
 	margin: 0;
