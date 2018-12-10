@@ -9,6 +9,10 @@ body{
 	background-color: mistyrose;
 	padding: 0;
 	margin: 0;
+	/*background-image: url(skyResized.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;*/
 }
 
 a{
